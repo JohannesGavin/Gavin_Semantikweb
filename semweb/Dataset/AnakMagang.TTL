@@ -1,0 +1,169 @@
+@prefix ab: <http://learningsparql.com/ns/addressbook#> .
+@prefix d:  <http://learningsparql.com/ns/data#> .
+@prefix media: <https://www.ldf.fi/service/rdf-grapher> .
+
+#Mahasiswa Magang
+d:001
+    ab:Nama                 "Ahmad Faaiz Al-auza'i" ;
+    ab:NPM                  "140810180023" ;
+    ab:Angkatan             "2018" ;
+    ab:NamaPerusahaan       "LatihID" ;
+    ab:DeskripsiPerusahaan   "LatihID merupakan platform edukasi daring yang menyediakan pelatihan yang gratis dan berkualitas kepada UMKM di seluruh Indonesia" ;
+    ab:EmailPerusahaan        "info@latihid.com" ;
+    ab:KontakPerusahaan       "-" ;
+    ab:BidangMagang            "Full-stack Developer " .
+    
+
+d:002
+    ab:Nama                 "Natasya Rizky Maharani" ;
+    ab:NPM                  "140810180004" ;
+    ab:Angkatan             "2018" ;
+    ab:NamaPerusahaan       "Diskominfo Provinsi Jawa Barat" ;
+    ab:DeskripsiPerusahaan   "-" ;
+    ab:EmailPerusahaan        "-" ;
+    ab:KontakPerusahaan       " (022) 2502898" ;
+    ab:BidangMagang            "aplikasi informatika " .
+    
+
+d:003
+    ab:Nama                 "muhammad risqullah sudanta gorau" ;
+    ab:NPM                  "140810180066" ;
+    ab:Angkatan             "2018" ;
+    ab:NamaPerusahaan       "Bank Mandiri" ;
+    ab:DeskripsiPerusahaan   "Perbankan" ;
+    ab:EmailPerusahaan        "mandiricare@bankmandiri.co.id" ;
+    ab:KontakPerusahaan       "-" ;
+    ab:BidangMagang            "IT Development Application" .
+    
+
+d:004
+    ab:Nama                 "Putri nabila" ;
+    ab:NPM                  "140810180007" ;
+    ab:Angkatan             "2018" ;
+    ab:NamaPerusahaan       "Unpad" ;
+    ab:DeskripsiPerusahaan   "Magang di batu pa juli" ;
+    ab:EmailPerusahaan        "unpad@mail.ac.ic" ;
+    ab:KontakPerusahaan       "-" ;
+    ab:BidangMagang            "fullstack bikin aplikasi statis untuk prodi2 di unpad" .
+    
+
+d:005
+    ab:Nama                 "Kefilino Khalifa Filardi" ;
+    ab:NPM                  "140810180028" ;
+    ab:Angkatan             "2018" ;
+    ab:NamaPerusahaan       "LatihID" ;
+    ab:DeskripsiPerusahaan   "platform pembelajaran bisnis dan UMKM" ;
+    ab:EmailPerusahaan        "info@latihid.com" ;
+    ab:KontakPerusahaan       "+61451511497" ;
+    ab:BidangMagang            "full-stack web developer" .
+    
+
+d:006
+    ab:Nama                 "Raihan Luthfiandi Muhammad" ;
+    ab:NPM                  "140810170029" ;
+    ab:Angkatan             "2017" ;
+    ab:NamaPerusahaan       "CICIL" ;
+    ab:DeskripsiPerusahaan   "Perusahaan yang memberikan peminjaman ke mahasiswa" ;
+    ab:EmailPerusahaan        "hr@cicil.co.id" ;
+    ab:KontakPerusahaan       "081113102760" ;
+    ab:BidangMagang            "Product Manager" .
+    
+
+d:007
+    ab:Nama                 "Rifaa Zalfaa Fakhriyyah" ;
+    ab:NPM                  "140810170031" ;
+    ab:Angkatan             "2017" ;
+    ab:NamaPerusahaan       "Kazee" ;
+    ab:DeskripsiPerusahaan   "Data analytics" ;
+    ab:EmailPerusahaan        "info@kazee.id" ;
+    ab:KontakPerusahaan       "0813101445410" ;
+    ab:BidangMagang            "FrontEnd" .
+    
+
+d:008
+    ab:Nama                 "Tivani Shakilla Ervi" ;
+    ab:NPM                  "140810170014" ;
+    ab:Angkatan             "2017" ;
+    ab:NamaPerusahaan       "Prestisa" ;
+    ab:DeskripsiPerusahaan   "E-commerce floral" ;
+    ab:EmailPerusahaan        "-" ;
+    ab:KontakPerusahaan       "081283287145" ;
+    ab:BidangMagang            "Front-end developer" .
+    
+
+d:009
+    ab:Nama                 "Afie Syahrulloh Arridlo" ;
+    ab:NPM                  "140810170040" ;
+    ab:Angkatan             "2017" ;
+    ab:NamaPerusahaan       "Kementerian Komunikasi dan Informatika. Subdit Penyidikan dan Penindakan" ;
+    ab:DeskripsiPerusahaan   "Layanan pelaporan & pengaduan kejahatan Dunia Maya (Cyber Crimes)." ;
+    ab:EmailPerusahaan        "cybercrimes@mail.kominfo.go.id" ;
+    ab:KontakPerusahaan       "081210101112" ;
+    ab:BidangMagang            "Verifikator Cekrekening / Forensik" .
+    
+
+d:010
+    ab:Nama                 "Syaina Nur Fauziyah" ;
+    ab:NPM                  "140810170025" ;
+    ab:Angkatan             "2017" ;
+    ab:NamaPerusahaan       "PT Kazee Digital Indonesia" ;
+    ab:DeskripsiPerusahaan   "Perusahaan yg bergerak dibidang data, mengolah data, data analitik" ;
+    ab:EmailPerusahaan        "info@kazee.id kalo hrdnya hrd@kazee.id" ;
+    ab:KontakPerusahaan       "+6281310445410" ;
+    ab:BidangMagang            "Data Scientist" .
+    
+
+d:011
+    ab:Nama                 "Daffa Anov Arkan Javier" ;
+    ab:NPM                  "140810190008" ;
+    ab:Angkatan             "2019" ;
+    ab:NamaPerusahaan       "Bank BRI" ;
+    ab:DeskripsiPerusahaan   "Sebuah bank bumn" ;
+    ab:EmailPerusahaan        "callbri@bri.co.id" ;
+    ab:KontakPerusahaan       "-" ;
+    ab:BidangMagang            "Information security" .
+    
+
+d:012
+    ab:Nama                 "Birgitta" ;
+    ab:NPM                  "140810190024" ;
+    ab:Angkatan             "2019" ;
+    ab:NamaPerusahaan       "Akademis.id" ;
+    ab:DeskripsiPerusahaan   "Perusahaan tryout" ;
+    ab:EmailPerusahaan        "-" ;
+    ab:KontakPerusahaan       "IG: @akademis.id" ;
+    ab:BidangMagang            "CEO Analyst" .
+    
+
+d:013
+    ab:Nama                 "Muhammad Raihan Fatoni" ;
+    ab:NPM                  "140810190039" ;
+    ab:Angkatan             "2019" ;
+    ab:NamaPerusahaan       "Fortuna Mediatama" ;
+    ab:DeskripsiPerusahaan   "Perusahaan Teknologi" ;
+    ab:EmailPerusahaan        "-" ;
+    ab:KontakPerusahaan       "02155698999" ;
+    ab:BidangMagang            "Produck and Development (software developer)" .
+    
+
+d:014
+    ab:Nama                 "Farhan Gunadi" ;
+    ab:NPM                  "140810190009" ;
+    ab:Angkatan             "2019" ;
+    ab:NamaPerusahaan       "Telkom Indonesia" ;
+    ab:DeskripsiPerusahaan   "Telkom Indonesia atau Telkom saja adalah perusahaan informasi dan komunikasi serta penyedia jasa dan jaringan telekomunikasi secara lengkap di Indonesia" ;
+    ab:EmailPerusahaan        "corporate_comm@telkom.co.id" ;
+    ab:KontakPerusahaan       "+62 21 - 808 63539" ;
+    ab:BidangMagang            "Access data management" .
+    
+
+d:015
+    ab:Nama                 "Bagas Adi Firdaus" ;
+    ab:NPM                  "140810190037" ;
+    ab:Angkatan             "2019" ;
+    ab:NamaPerusahaan       "MagangUpdate" ;
+    ab:DeskripsiPerusahaan   "Perusahaan media informasi seputar magang dan dunia pekerjaan" ;
+    ab:EmailPerusahaan        "marketing@seputarkampus.com " ;
+    ab:KontakPerusahaan       "+62 822-6419-2511" ;
+    ab:BidangMagang            "Wordpress Developer" .
+    

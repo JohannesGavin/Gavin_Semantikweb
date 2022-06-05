@@ -1,0 +1,16 @@
+prefix ab: <http://learningsparql.com/ns/addressbook#> 
+prefix d:  <http://learningsparql.com/ns/data#> 
+prefix media: <https://www.ldf.fi/service/rdf-grapher> 
+
+SELECT ?Nama ?NPM ?Angkatan ?NamaPerusahaan ?DeskripsiPerusahaan ?EmailPerusahaan ?KontakPerusahaan ?BidangMagang
+    WHERE
+    { 
+        ?d  ab:Nama ?Nama ;
+            ab:NPM ?NPM;
+            ab:Angkatan ?Angkatan ;
+            ab:NamaPerusahaan ?NamaPerusahaan;
+            ab:DeskripsiPerusahaan ?DeskripsiPerusahaan;
+            ab:EmailPerusahaan ?EmailPerusahaan ;
+            ab:KontakPerusahaan ?KontakPerusahaan;
+            ab:BidangMagang ?BidangMagang.        
+    }
